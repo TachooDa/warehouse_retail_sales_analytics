@@ -150,18 +150,29 @@ Dari keseluruhan query untuk projek ini digunakan untuk investigasi aspek yang s
 
 ### Insight dan business solution yg dapat saya berikan:
 
-1, Dominasi New/Low performer(50.7%) : Segmentasi ini memiliki banyak produk tapi berkontribusi rendah pada penjualan. - Solusi: Lakukan seleksi dan fokus pada supplier yang punya potensi dan eliminasi yang konsisten pada segment low/lemah 2. Established but low performer (39%): Segmentasi ini memiliki banyak supplier yang dapat bertahan terhadap penjualan tetapi juga kurang produktif. - Solusi: Supplier dapat meningkatkan kolaborasi melalui promo, optimisasi distribusi atau melakukan negosiasi ulang untuk kontrak agar performa naik dan membaik. 3. High Performer & Rising star (10.3%): Pada segementasi inti ini merupakan segmentasi yang berpotensi untuk tumbuh walaupun memiliki persentase terkecil. - Solusi: Perusahaan dapat memberikan insentif dan dukungan pemasaran untuk menjaga loyalitas sekaligus mempercepat pertumbuhan pada segemntasi supplier rising star.
+1, Dominasi New/Low performer(50.7%) : Segmentasi ini memiliki banyak produk tapi berkontribusi rendah pada penjualan.
+
+- Solusi: Lakukan seleksi dan fokus pada supplier yang punya potensi dan eliminasi yang konsisten pada segment low/lemah
+
+2. Established but low performer (39%): Segmentasi ini memiliki banyak supplier yang dapat bertahan terhadap penjualan tetapi juga kurang produktif.
+   - Solusi: Supplier dapat meningkatkan kolaborasi melalui promo, optimisasi distribusi atau melakukan negosiasi ulang untuk kontrak agar performa naik dan membaik.
+3. High Performer & Rising star (10.3%): Pada segementasi inti ini merupakan segmentasi yang berpotensi untuk tumbuh walaupun memiliki persentase terkecil.
+   - Solusi: Perusahaan dapat memberikan insentif dan dukungan pemasaran untuk menjaga loyalitas sekaligus mempercepat pertumbuhan pada segemntasi supplier rising star.
 
 # Conclusion (Kesimpulan)
 
 1. Kontribusi Penjualan Didominasi Supplier & Produk Tertentu
-   Hanya sebagian kecil supplier (Crown Imports, Miller Brewing, dll.) dan produk unggulan (Vodka, Corona, Heineken) yang menyumbang mayoritas penjualan. - Solusi: fokuskan strategi partnership & promosi pada top supplier dan produk kunci, sambil mendorong supplier/produk menengah agar naik kelas.
+   Hanya sebagian kecil supplier (Crown Imports, Miller Brewing, dll.) dan produk unggulan (Vodka, Corona, Heineken) yang menyumbang mayoritas penjualan.
+   - Solusi: fokuskan strategi partnership & promosi pada top supplier dan produk kunci, sambil mendorong supplier/produk menengah agar naik kelas.
 2. Supply Chain Perlu Diferensiasi & Optimalisasi
-   Liquor cenderung kuat di retail, sedangkan beer dominan di warehouse; transfer produk terbukti mendorong kenaikan penjualan dengan pola musiman di akhir tahun. - Solusi: terapkan manajemen stok yang disesuaikan per kategori produk, siapkan strategi logistik musiman, dan pastikan transfer gudang–retail lebih efisien.
+   Liquor cenderung kuat di retail, sedangkan beer dominan di warehouse; transfer produk terbukti mendorong kenaikan penjualan dengan pola musiman di akhir tahun.
+   - Solusi: terapkan manajemen stok yang disesuaikan per kategori produk, siapkan strategi logistik musiman, dan pastikan transfer gudang–retail lebih efisien.
 3. Risiko Konsentrasi Tinggi & Banyak Produk Low Performer
-   Lebih dari 79% produk ada di kategori low sales, 4.5% bahkan tidak terjual, sementara hanya segelintir produk yang menopang revenue. - Solusi: lakukan diversifikasi portofolio, promosikan produk kategori medium agar naik kelas, dan kurangi produk no sales melalui audit & return ke supplier.
+   Lebih dari 79% produk ada di kategori low sales, 4.5% bahkan tidak terjual, sementara hanya segelintir produk yang menopang revenue.
+   - Solusi: lakukan diversifikasi portofolio, promosikan produk kategori medium agar naik kelas, dan kurangi produk no sales melalui audit & return ke supplier.
 4. Supplier Segmentation Menunjukkan Potensi Pertumbuhan
-   Mayoritas supplier masih tergolong New/Low Performer atau Established but Low Performer, hanya 10% yang High Performer/Rising Star. - Solusi: seleksi supplier rendah performa, dorong kolaborasi dengan supplier menengah, dan berikan insentif pada high performer & rising star untuk menjaga loyalitas.
+   Mayoritas supplier masih tergolong New/Low Performer atau Established but Low Performer, hanya 10% yang High Performer/Rising Star.
+   - Solusi: seleksi supplier rendah performa, dorong kolaborasi dengan supplier menengah, dan berikan insentif pada high performer & rising star untuk menjaga loyalitas.
 
 # ❌ Closing Thought
 
