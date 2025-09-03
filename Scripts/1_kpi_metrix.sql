@@ -166,3 +166,43 @@ FROM top_supplier
 ORDER BY overall_sales DESC LIMIT 10;
 
 
+-- subquery untuk melihat perbandingan penjualan produk minuman beer dan non LIQUOR
+SELECT count(DISTINCT item_code), item_type FROM wretail_staging
+GROUP BY item_type ;
+
+SELECT count(DISTINCT item_code) AS  total_produk
+FROM wretail_staging
+WHERE item_type = 'BEER' and
+item_code IN (
+SELECT DISTINCT item_code
+FROM wretail_staging 
+WHERE item_type = 'LIQUOR'
+);
+
+SELECT
+	a.item_type,
+	a.total_produk,
+	d.nice_produk
+from(
+SELECT
+	item_type, count(DISTINCT item_code) AS total_produk
+FROM wretail_staging 
+group BY 1) a
+join(
+SELECT
+	b.item_type, count(DISTINCT item_code) AS nice_produk
+FROM wretail_staging b
+JOIN (
+SELECT
+	item_type, avg(retail_sales) AS retail_sales
+FROM wretail_staging
+GROUP BY 1
+ ) c ON c.item_type = b.item_type AND b.retail_sales > c.retail_sales
+ GROUP BY 1
+ ) d ON a.item_type = d.item_type;
+
+-- total sales per bulan dan tahun berdasarkan product
+SELECT 
+	item_code,
+	sum()
+FROM wretail_staging
